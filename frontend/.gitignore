@@ -1,0 +1,17 @@
+# Python (backend)
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env
+
+# Node / frontend
+node_modules/
+dist/
+
+# Data files (remove this line if you WANT it uploaded)
+users.xlsx
+
+# Mac system files
+.DS_Store
+.ipynb_checkpoints/
